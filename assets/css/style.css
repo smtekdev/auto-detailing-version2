@@ -95,7 +95,7 @@ a:hover {
   transition: 0.8s;
 }
 img {
-  max-width: 37%;
+  max-width: 100%;
   height: auto;
 }
 .pt-100 {
@@ -1273,7 +1273,7 @@ img {
 .desktop-nav .navbar .others-options ul:before {
   position: absolute;
   content: "";
-  top: 12px;
+  top: 27px;
   left: 42px;
   height: 40px;
   width: 1px;
