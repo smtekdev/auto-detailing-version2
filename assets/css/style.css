@@ -431,7 +431,7 @@ img {
 }
 .navbar-area {
   position: relative;
-  background-color: #19191b;
+  background-color: #05152E;
   padding-top: 20px;
   padding-bottom: 18px;
 }
@@ -452,7 +452,7 @@ img {
   display: none;
 }
 .desktop-nav {
-  background: #19191b;
+  background: #05152E;
   padding-top: 0;
   padding-bottom: 0;
 }
